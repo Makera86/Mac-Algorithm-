@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Nov 10 19:59:54 2023
-
-@author: msi
-"""
-
 import stanza
 stanza.download('en')
 from stanza.server import CoreNLPClient
